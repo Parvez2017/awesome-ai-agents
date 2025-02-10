@@ -129,6 +129,19 @@ AI-powered agents are transforming automation, research, and software developmen
 | ai-agent-roadmap | [GitHub](https://github.com/Yuan-ManX/ai-agent-roadmap) |
 
 ---
-## Contact
-- Email: hasanparvez2017@gmail.com
-- LinkedIn: https://www.linkedin.com/in/parvej2017
+---
+
+## 📬 Contact & More Information
+
+For any questions, collaborations, or contributions, feel free to reach out:
+
+- 📧 Email: [hasanparvez2017@gmail.com](mailto:hasanparvez2017@gmail.com)
+- 🔗 LinkedIn: [Md Parvej Hosen](https://www.linkedin.com/in/parvej2017)
+- 🏷 License: MIT License (See below)
+
+---
+
+## 📝 License
+
+This project is licensed under the **MIT License**.  
+You are free to use, modify, and distribute this project while keeping the original license and attribution.
