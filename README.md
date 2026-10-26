@@ -61,6 +61,7 @@ AI-powered agents are transforming automation, research, and software developmen
 
 | Project Name | Link |
 |-------------|------|
+| Agent Payment Node (Apple Silicon macOS, Node 24) | [GitHub](https://github.com/nuanu-ai/agent-payment-node) |
 | mem0 | [GitHub](https://github.com/mem0ai/mem0) |
 | composio | [GitHub](https://github.com/ComposioHQ/composio) |
 
